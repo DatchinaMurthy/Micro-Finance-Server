@@ -8,11 +8,11 @@
 		<version>3.2.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.aws.deployment</groupId>
-	<artifactId>aws-deployments</artifactId>
+	<groupId>com.ds.microfinance</groupId>
+	<artifactId>Micro-Finance</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aws-deployments</name>
-	<description>Aws Deployments Project</description>
+	<name>Micro-Finance-Server</name>
+	<description>Micro Finance Server Project</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2023.0.0</spring-cloud.version>
