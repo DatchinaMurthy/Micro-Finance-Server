@@ -1,10 +1,10 @@
-package com.aws.deployment;
+package com.ds.microfinance;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AwsDeploymentsApplicationTests {
+class MicroFinanceServerApplicationTests {
 
 	@Test
 	void contextLoads() {
